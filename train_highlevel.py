@@ -692,7 +692,7 @@ def main(log_path="result.txt", run_idx=1):
     print("High-level training done.")
 
 if __name__ == "__main__":
-    RUNS = 5
+    RUNS = 10
     for run_idx in range(1, RUNS + 1):
         log_path = LOG_TXT_TEMPLATE.format(run_idx)
         with open(log_path, "w", encoding="utf-8") as f:
