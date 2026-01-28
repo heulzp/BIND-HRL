@@ -92,6 +92,5 @@ If you find this work useful, please consider citing our paper:
 @article{bind2026,
   title   = {BIND: Bi-level Intrinsic Modulation for Stable Hierarchical Reinforcement Learning under Non-Stationary Tasks},
   author  = {Li, Zepei and Mo, Hongwei},
-  journal = {Under Review},
   year    = {2026}
 }
